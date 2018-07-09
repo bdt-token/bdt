@@ -3,7 +3,7 @@
 ## The project is under planning
 项目正在筹划中，如果你感兴趣，请继续向下阅读～ thank u
 
-## The White Paper on the way
+## The Whitepaper on the way
 白皮书马上公开
 
 为了增加彼此的信任，每个人都可以检查这个合约源码
